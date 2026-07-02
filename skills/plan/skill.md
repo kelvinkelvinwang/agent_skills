@@ -1,5 +1,7 @@
-title: Plan
+---
+name: plan
 description: Use this to plan how to solve an issue, after an approach has been determined by the user
+---
 
 Clarify the code change scope, constraints, and timelines before writing anything down.
 Open @design_doc_template.md, mirror its structure, and draft the plan as a .md file in desired_location.

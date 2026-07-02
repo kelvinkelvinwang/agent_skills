@@ -1,5 +1,7 @@
-title: codebase researcher
+---
+name: research
 description: Use this skill to research large and unfamiliar codebases, part of the RePPIT framework for good development
+---
 
 Research and document the existing codebase exactly as it is today; no suggestions or evaluations.
 

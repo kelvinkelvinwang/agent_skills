@@ -1,5 +1,7 @@
-title: proposing skill for fixing bugs or implementing features
+---
+name: propose
 description: Use this as a framework for how to consider various ways to solve an issue
+---
 
 Generate up to two solution proposals grounded in an existing research document and a new feature or project request
 
@@ -11,7 +13,7 @@ Generate up to two solution proposals grounded in an existing research document 
 
 ## Steps
 1. Intake
-   - Capture the user’s request and optional research document path.
+   - Capture the user's request and optional research document path.
 2. Parse research
    - Read the research document fully.
    - Extract constraints, relevant modules, dependencies, data flows, and prior decisions.

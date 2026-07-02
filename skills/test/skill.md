@@ -1,5 +1,7 @@
-title: reviews code after implementation
+---
+name: test
 description: use this to review code as part of the RePPIT framework
+---
 
 Perform a comprehensive review of all uncommitted changes (staged and unstaged) and produce prioritized action items.
 
