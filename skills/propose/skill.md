@@ -24,6 +24,7 @@ Generate up to two solution proposals grounded in an existing research document 
 4. Validation planning
    - Identify verification strategies (tests, experiments, observability) necessary to prove each approach.
    - Surface critical unknowns or prerequisite research.
+   - Consider how the changes will affect the front-end design, and if relevant, propose necessary front-end changes as next steps to promote usability with the new feature(s)
 5. Deliver response using the template below.
 
 ## Output template
